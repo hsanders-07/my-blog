@@ -30,6 +30,16 @@ You can find more information of tasks and responsibilites of a Data Engineer th
 
 ## What is it like to hold these roles?
 
+### Work-Life Balance
+
+
+### Salary
+
+| Career         | US Average Yearly Salary |
+| -----------    | -----------              |
+| Data Science   | $122,379                 |
+| Data Analyst   | $78,855                  |
+| Data Engineer  | $128,992                 |
 
 
 ## Call to action
