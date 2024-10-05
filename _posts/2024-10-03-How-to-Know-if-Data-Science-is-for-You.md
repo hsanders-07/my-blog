@@ -43,3 +43,4 @@ You can find more information of tasks and responsibilites of a Data Engineer th
 
 
 ## Call to action
+Hopefully by now you have a greater idea as to whether Data Science is for you or if a different path might be better. Either way, I've provided you with a good start to your research and encourage you to keep looking deeper into whicheever option has caught your eye and start making your way to your dream job!
