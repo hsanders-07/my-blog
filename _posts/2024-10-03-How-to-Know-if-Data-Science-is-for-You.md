@@ -49,4 +49,4 @@ Now for the question I know you want the answer to: "Can I work from home as a D
 
 
 ## Call to action
-Hopefully by now you have a greater idea as to whether Data Science is for you or if a different path might be better. Either way, I've provided you with a good start to your research and encourage you to keep looking deeper into whicheever option has caught your eye and start making your way to your dream job!
+By now, I hope you have a clearer sense of whether Data Science is the right fit for you, or if another path might suit you better. Either way, I've given you a solid starting point for your research. I encourage you to keep exploring whichever option has sparked your interest and take the next steps toward your dream job!
