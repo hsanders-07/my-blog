@@ -14,6 +14,8 @@ display_image: false
 Can't quite decide if you're more into the computer programming side of things vs the analytical side of things? Well you are in luck! The field of Data Science is rather all-encompasing. Taking part in the process nearly from beginning to end, A data scientist is trained to take part in the data gathering, cleaning, organization, analysis, and production of findings. 
 The goal behind Data Science, is to find ways to provide informed decision making and to help improve the operations of the industry/business. 
 
+A common difficulty within this career field is the need for constant learning and adaptation. It can be anticipated that the way you would do things at the start of your career would be very different from how you would do them at the end of your career. For some, this may be a concern, but for others this is a welcomed challenge to continually learn and adapt with the changes in technology and the Data Science methods.
+
 You can find more information of tasks and responsibilities of a Data Scientist through various sites, such as this [site](https://www.indeed.com/hire/job-description/data-scientist?gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATbJujt1bTXlg-VSpVQhkq4dewqyCt-5mT_inCg0ditMq_IqNJn-cMUaAnBnEALw_wcB&aceid=&gclsrc=aw.ds).
 
 #### Data Analytics
@@ -29,15 +31,15 @@ The very important task of creating and consistantly updating/improving the infa
 You can find more information of tasks and responsibilites of a Data Engineer through various sites, such as this [site](https://www.indeed.com/hire/job-description/data-engineer?gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATasjPkze2nqZhNv0ESCsp2M8ZBgEAMMT6fu9g80-xuKdXvv29LnrWYaAtJ-EALw_wcB&hl=en&aceid=&co=US&gclsrc=aw.ds). 
 
 ## What is it like to hold the role of a Data Scientist?
-Now that you've got a general idea as to what Data Science is in comparison to two other similar career paths, lets dive deeper into what it'd look like for you to be a Data Scientist. After all, that's what you are here for - to determine if Data Science is the right choice for you! Which, I must add, would make me super glad if you decided it was!
+Now that you've got a general idea as to what Data Science is in comparison to two other similar career paths, lets dive deeper into what it'd look like for you to be a Data Scientist. After all, that's what you are here for, to determine if Data Science is the right choice for you! Which, I must add, would make me super glad if you decided it was!
 
 According to [tealhq.com](https://www.tealhq.com/work-life-balance/data-scientist), the following can anticipated as being the typical work conditions.
 
-As far as typical hours, it can be expected to maintain around your usual "full-time" numbers. This equates to around 40-50 hours a week, achnologing that this may fluctuate with various projects and work scenarios. As a Data Scientist it would not be too common, but should be recognized as possible, that you will need to put time in over weekends. Again, this mainly comes back to the overall status of your projects, due dates, emergencies, etc. So, it seems to me like as long as you stay on top of your work, you might not ever have to worry about missing that big game over the weekend! 
-Now for the question I know you want the answer to: Can I work from home as a Data Analyst? Though the answer to this question is by no means an all encompasing answer, the generalized reply is that YES, often times Data Scientists are able to work from home, at least for part of the time. As you might expect, each company will be different, but don't be too surprised if this option becomes available to you. 
+As far as typical hours, it can be expected to maintain around your usual "full-time" numbers. This equates to around 40-45 hours a week, achnologing that this may fluctuate with various projects and work scenarios. As a Data Scientist it would not be too common, but should be recognized as possible, that you will need to put time in over weekends and/or have late nights. Again, this mainly comes back to the overall status of your projects, due dates, emergencies, etc. So, it seems to me like as long as you stay on top of your work, you might not ever have to worry about missing that big game over the weekend! 
 
+Now for the question I know you want the answer to: "Can I work from home as a Data Scientist?" Though the answer to this question is by no means an all encompasing answer, the generalized reply is that YES, often times Data Scientists are able to work from home, at least for part of the time. As you might expect, each company will be different, but don't be too surprised if this option becomes available to you. 
 
-### Salary
+### Salary Comparisons
 
 | Career         | US Average Yearly Salary |
 | -----------    | -----------              |
