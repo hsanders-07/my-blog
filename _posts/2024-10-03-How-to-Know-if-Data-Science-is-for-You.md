@@ -30,8 +30,14 @@ You can find more information of tasks and responsibilites of a Data Engineer th
 
 ## What is it like to hold these roles?
 
-### Work-Life Balance
+### Data Scientist
 
+
+
+### Data Analyst
+According to [tealhq.com](https://www.tealhq.com/work-life-balance/big-data-analyst#:~:text=Work%2DLife%20Balance%20FAQs%20for%20Big%20Data%20Analyst&text=Big%20Data%20Analysts%20generally%20work,tight%20deadlines%2C%20potentially%20extending%20hours.), the following can anticipated as being the typical work conditions.
+As far as typical hours, it can be expected to maintain around your usual "full-time" numbers. This equates to around 40-50 hours a week, achnologing that this may fluctuate with various projects and work scenarios. As a Data Analyst it would not be too common, but should be recognized as possible, that you will need to put time in over weekends. Again, this mainly comes back to the overall status of your projects, due dates, emergencies, etc. So, it seems to me like as long as you stay on top of your work, you might not ever have to worry about missing that big game over the weekend! 
+Now for the question I know you want the answer to: Can I work from home as a Data Analyst? Though the answer to this question is by no means an all encompasing answer, the generalized reply is that YES, often times Data Analyst are able to work from home, at least for part of the time. As you might expect, each company will be different, but don't be too surprised if this option becomes available to you. 
 
 ### Salary
 
