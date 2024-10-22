@@ -31,7 +31,7 @@ The very important task of creating and consistently updating/improving the infr
 You can find more information on tasks and responsibilities of a data engineer through various sites, such as this [site](https://www.indeed.com/hire/job-description/data-engineer?gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATasjPkze2nqZhNv0ESCsp2M8ZBgEAMMT6fu9g80-xuKdXvv29LnrWYaAtJ-EALw_wcB&hl=en&aceid=&co=US&gclsrc=aw.ds). 
 
 <figure>
-	<img src=<img src="https://hsanders-07.github.io/my-blog/assets/img/career_comp.jpg" alt=""> 
+	<img src="https://hsanders-07.github.io/my-blog/assets/img/career_comp.jpg" alt=""> 
 	<figcaption>Visual representation of comparing these three fields. (Image courtesy of static1.squarespace.com)</figcaption>
 </figure>
 
@@ -53,5 +53,5 @@ Now for the question I know you want the answer to: "Can I work from home as a d
 | Data Engineer  | $128,992                 |
 
 
-## Call to action
+## The Wrap Up
 By now, I hope you have a clearer sense of whether data science is the right fit for you, or if another path might suit you better. Either way, I've given you a solid starting point for your research. I encourage you to keep exploring whichever option has sparked your interest and take the next steps toward your dream job!
