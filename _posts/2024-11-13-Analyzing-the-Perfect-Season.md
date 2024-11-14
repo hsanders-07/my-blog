@@ -161,15 +161,18 @@ To give you an idea of how I got the data to look, the following is the first fi
 </table>
 
 From here you might be struggling to identify what each of these variables represent, so let me provide you a key for that as well.
-Offense = The team with the ball
-Defense = The team without the ball
-Scoring = 1 if they score on the drive, 0 if they do not
-Elapsed = Time in minutes and portion of a minute the offense had the ball
-Plays = How many individual plays they ran
-Start yards to goal = How far away they started from the end-zone
-Yards = How many yards they gained
-Drive Result = What happened at the end of the drive
-Off points gained = Net points gained by the offense
+
+| Variable      | Description |
+| ----------- | ----------- |
+| Offense      | The team with the ball       |
+| Defense  | The team without the ball        |
+| Scoring      | 1 if they score on the drive, 0 if they do not       |
+| Elapsed   | Time in minutes and portion of a minute the offense had the ball        |
+| Plays      | How many individual plays they ran       |
+| Start yards to goal  | How far away they started from the end-zone        |
+| Yards      | How many yards they gained       |
+| Drive Result   | What happened at the end of the drive        |
+| Off points gained   | Net points gained by the offense        |
 
 ### Where You Can Get Further Information
 
