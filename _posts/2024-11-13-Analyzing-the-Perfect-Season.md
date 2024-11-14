@@ -174,6 +174,11 @@ From here you might be struggling to identify what each of these variables repre
 | Drive Result   | What happened at the end of the drive        |
 | Off points gained   | Net points gained by the offense        |
 
+Now we are ready to dive into the Exploritory Data Analysis! In order to have an idea of what variables we should explore deeper, we need to know how they relate together. A correlation matrix is perfect for this. 
+
+
+!(utah_corr_1.png){ width=48% } !(utah_corr2.png){ width=48% }
+
 ### Where You Can Get Further Information
 
 ### All the Little Details
