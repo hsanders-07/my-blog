@@ -14,7 +14,18 @@ display_image: false
 Before I can get into why the method of data gathering I used was legal and ethical, I should probably first tell you where it is I got my data. I knew there had to be multiple options for gathering college football data so I did some researching until I found this [site](https://collegefootballdata.com/). Now, if you're not familiar with modes of data gathering, you might be thinking right about now something along the lines of, "Okay Hunter, so what, you just went to this site and copied and pasted the data they show? That seems a little sketchy." Rest assured though, that is not what I did! Rather this is a website that is made for the intended purpose of people getting their data. That's what they want you to do! I will get into the "How" of my data gathering in the next section, but the point I am trying to get accross here in this section is that I followed the instructions and paths this website provides to utizile their API and get my data. All being perfectly legal and ethical seeing that I followed their instructions to do so.
 
 ### How I Gathered the Data
+As with most services, there are free ways to gather data through most APIs but also some things that you must pay to have access to. I found an option that didn't require anything other than me setting up a free account and thus getting my own personal API key. If you aren't sure what this is, it is essentially a code that you get once you sign up and use to get you access to their data. From here, this API was actually super easy to use. You are able to identify the data you are looking for and it will provide you with the url. From here you simply need to write code that takes that url and your API key to go and request the data. The code chunk below shows how I accomplished this.
 
+{%- highlight python -%}
+with open('cfb_apikey.txt', 'r') as file:
+    apikey = f"Bearer {file.read()}"
+url = yoururl.com
+headers = {
+    "Authorization": apikey,
+    "Content-Type": "application/json"
+    r = requests.get(url, headers=headers)
+}
+{%- endhighlight -%}
 ### Summary of What the Statistics Say
 
 ### Where You Can Get Further Information
