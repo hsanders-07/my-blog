@@ -19,4 +19,4 @@ display_image: false
 ### Where You Can Get Further Information
 
 ### Where to Find My GitHub Repo for my Analysis
-If you are interested in taking a deeper look into how I performed all the data gathering, cleaning, and analyzing, you are welcome to take a look at this [site] (https://github.com/hsanders-07/post_2_code) repository that contains it all.
+If you are interested in taking a deeper look into how I performed all the data gathering, cleaning, and analyzing, you are welcome to take a look at this [repository](https://github.com/hsanders-07/post_2_code) which contains it all.
