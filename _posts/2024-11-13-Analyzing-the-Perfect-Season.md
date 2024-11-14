@@ -177,10 +177,26 @@ From here you might be struggling to identify what each of these variables repre
 Now we are ready to dive into the Exploritory Data Analysis! In order to have an idea of what variables we should explore deeper, we need to know how they relate together. A correlation matrix is perfect for this. 
 
 
+![alt-text-1]("https://hsanders-07.github.io/my-blog/assets/img/utah_corr_1.png") !("https://hsanders-07.github.io/my-blog/assets/img/utah_corr2.png")
+
 <figure>
 	<img src="https://hsanders-07.github.io/my-blog/assets/img/utah_corr_1.png" alt=""> 
+</figure>
+
+<figure>
     <img src="https://hsanders-07.github.io/my-blog/assets/img/utah_corr2.png" alt="">
 </figure>
+
+This was a big step in getting an understanding of what we can start to explore in this data and the kind of things we can learn about. We can immediately start to see a difference in various correlations from when Utah is on offense vs when they are on defense. Offensively, they were clearly able to find more success than their oppenents were. We can see this further by looking at the data points of yards vs starting_yards_to_goal. Here are the two graphs to visualize the correlation that was calculated.
+
+<figure>
+	<img src="https://hsanders-07.github.io/my-blog/assets/img/yards_vs_togo1.png" alt=""> 
+</figure>
+
+<figure>
+    <img src="https://hsanders-07.github.io/my-blog/assets/img/yards_vs_togo2.png" alt="">
+</figure>
+
 
 ### Where You Can Get Further Information
 
