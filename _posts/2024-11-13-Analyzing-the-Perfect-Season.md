@@ -11,6 +11,7 @@ display_image: false
 
 
 ### Ethical Data Gathering?
+Before I can get into why the method of data gathering I used was legal and ethical, I should probably first tell you where it is I got my data. I knew there had to be multiple options for gathering college football data so I did some researching until I found this [site](https://collegefootballdata.com/). Now, if you're not familiar with modes of data gathering, you might be thinking right about now something along the lines of, "Okay Hunter, so what, you just went to this site and copied and pasted the data they show? That seems a little sketchy." Rest assured though, that is not what I did! Rather this is a website that is made for the intended purpose of people getting their data. That's what they want you to do! I will get into the "How" of my data gathering in the next section, but the point I am trying to get accross here in this section is that I followed the instructions and paths this website provides to utizile their API and get my data. All being perfectly legal and ethical seeing that I followed their instructions to do so.
 
 ### How I Gathered the Data
 
