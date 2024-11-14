@@ -177,13 +177,11 @@ From here you might be struggling to identify what each of these variables repre
 Now we are ready to dive into the Exploritory Data Analysis! In order to have an idea of what variables we should explore deeper, we need to know how they relate together. A correlation matrix is perfect for this. 
 
 
-<div style="display: flex; justify-content: space-between;">
-
-  <img src="utah_corr_1.png" alt="Utah Corr 1" style="width: 48%;"/>
-
-  <img src="utah_corr2.png" alt="Utah Corr 2" style="width: 48%;"/>
-
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <img src="utah_corr_1.png" alt="Utah Corr 1" style="width: 100%;">
+  <img src="utah_corr2.png" alt="Utah Corr 2" style="width: 100%;">
 </div>
+
 ### Where You Can Get Further Information
 
 ### All the Little Details
