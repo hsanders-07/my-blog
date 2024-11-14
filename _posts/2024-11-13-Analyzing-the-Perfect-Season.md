@@ -177,7 +177,7 @@ From here you might be struggling to identify what each of these variables repre
 Now we are ready to dive into the Exploritory Data Analysis! In order to have an idea of what variables we should explore deeper, we need to know how they relate together. A correlation matrix is perfect for this. 
 
 
-<figure style="display: flex; justify-content: space-between;">
+<figure>
 	<img src="https://hsanders-07.github.io/my-blog/assets/img/utah_corr_1.png" alt=""> 
     <img src="https://hsanders-07.github.io/my-blog/assets/img/utah_corr2.png" alt="">
 </figure>
