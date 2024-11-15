@@ -197,11 +197,26 @@ We can immediately start to see a difference in various correlations from when U
 
 The two main things we can learn from these graphs is that Utah's offensive productivity made life difficult on their opponent's offensive due to the vast mojority of their drives having 70+ yards to go. We also learn that the Utah defense were not fans of their opponents getting first downs. I put the dashed line at the 10 yards gained point in the x-axis to show just how often the Utah defense forced a 3-and-out, or kept the other team from getting even a single first down.
 
-<figure>
-	<img src="https://hsanders-07.github.io/my-blog/assets/img/ute_d_box.png" alt=""> 
-</figure>
+Finally, I would like to just take a look at some simple average comparisons. I will show you the code of how I got these averages. You will see this if you look at my coding repository, but just so you know incase you don't, "numeric_df" is the data for when Utah was on offense and "numeric_df2" is for when they were on defense. From these averages, it is clear that Utah held a significant statistical advantage on offense and defense in some of these very crucial statistics.
 
-My final plot I will show you you could do to analyze the data is a box plot. The box plot here shows that though the median is around the same spot (due to 80 yards to the end-zone being a very common starting point), the data is much more spread out to the fewer yards to go levels for instances where Utah's defense got scored on. This tells us that the Utes' defense was very good at limiting other teams to only scoring when they had a short field to work with. 
+{%- highlight python -%}
+print(f"Utah's average time on offense was: {numeric_df['elapsed'].mean()}")
+print(f"Utah's average time on defense was: {numeric_df2['elapsed'].mean()}")
+
+print(f"Utah's average offensive points gained was: {numeric_df['off_points_gained'].mean()}")
+print(f"Utah's opponents average offensive points gained was: {numeric_df2['off_points_gained'].mean()}")
+
+print(f"The proportion of Utah's drives ending with points was: {numeric_df['scoring'].mean()}")
+print(f"The proportion of Utah's opponent's drives ending with points was: {numeric_df2['scoring'].mean()}")
+
+#=> prints:
+Utah's average time on offense was: 2.6599099099099095
+Utah's average time on defense was: 2.0763440860215057
+Utah's average offensive points gained was: 2.391891891891892
+Utah's opponents average offensive points gained was: 1.070967741935484
+The proportion of Utah's drives ending with points was: 0.4864864864864865
+The proportion of Utah's opponent's drives ending with points was: 0.23870967741935484
+{%- endhighlight -%}
 
 ### Where You Can Get Further Information
 If you want to get more information on the data of the API that I used or know where I went to ensure data accuracy, you can you the same links that I did. The website for the API that I used was this [site](https://collegefootballdata.com/). Here you can also find all the information you would need to run your own API requests such as syntax and API instructions. The only other site I used for this analysis was [ESPN](https://www.espn.com/college-football/team/schedule/_/id/254/season/2008). That is where you can find ESPN's data of each game and see the play-by-play which matches the data I used.
