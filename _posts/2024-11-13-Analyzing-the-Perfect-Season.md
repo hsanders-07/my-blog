@@ -219,6 +219,8 @@ The proportion of Utah's opponent's drives ending with points was: 0.23870967741
 
 
 ### All the Little Details
+Overall, we have discovered some really cool things. We learned that it wasn't just the Utah defense that statistically dominated, but their offense as well. My challenge to you is to go analyze a season of your favorite team and share what you discover!
+
 If you want to get more information on the data of the API that I used or know where I went to ensure data accuracy, you can you the same links that I did. The website for the API that I used was this [site](https://collegefootballdata.com/). Here you can also find all the information you would need to run your own API requests such as syntax and API instructions. The only other site I used was [ESPN](https://www.espn.com/college-football/team/schedule/_/id/254/season/2008). That is where you can find ESPN's data of each game and see the play-by-play which matches the data I used.
 
 If you are interested in taking a deeper look into how I performed all the data gathering, cleaning, and analyzing, you are welcome to take a look at this [repository](https://github.com/hsanders-07/post_2_code) which contains it all.
