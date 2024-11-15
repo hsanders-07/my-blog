@@ -185,7 +185,7 @@ Now we are ready to dive into the Exploritory Data Analysis! In order to have an
     <img src="https://hsanders-07.github.io/my-blog/assets/img/ute_def_corr.png" alt="">
 </figure>
 
-This was a big step in getting an understanding of what we can start to explore in this data and the kind of things we can learn about. We can immediately start to see a difference in various correlations from when Utah is on offense vs when they are on defense. Offensively, they were clearly able to find more success than their oppenents were. We can see this further by looking at the data points of yards vs starting_yards_to_goal. Here are the two graphs to visualize the correlation that was calculated.
+We can immediately start to see a difference in various correlations from when Utah is on offense vs when they are on defense. Offensively, they were clearly able to find more success than their oppenents were. We can see this further by looking at the data points of yards vs starting_yards_to_goal. Here are the two graphs to visualize the correlation that was calculated.
 
 <figure>
 	<img src="https://hsanders-07.github.io/my-blog/assets/img/yards_vs_togo1.png" alt=""> 
@@ -195,8 +195,16 @@ This was a big step in getting an understanding of what we can start to explore 
     <img src="https://hsanders-07.github.io/my-blog/assets/img/yards_vs_togo2.png" alt="">
 </figure>
 
+The two main things we can learn from these graphs is that Utah's offensive productivity made life difficult on their opponent's offensive due to the vast mojority of their drives having 70+ yards to go. We also learn that the Utah defense were not fans of their opponents getting first downs. I put the dashed line at the 10 yards gained point in the x-axis to show just how often the Utah defense forced a 3-and-out, or kept the other team from getting even a single first down.
+
+<figure>
+	<img src="https://hsanders-07.github.io/my-blog/assets/img/ute_d_box.png" alt=""> 
+</figure>
+
+My final plot I will show you you could do to analyze the data is a box plot. The box plot here shows that though the median is around the same spot (due to 80 yards to the end-zone being a very common starting point), the data is much more spread out to the fewer yards to go levels for instances where Utah's defense got scored on. This tells us that the Utes' defense was very good at limiting other teams to only scoring when they had a short field to work with. 
 
 ### Where You Can Get Further Information
+If you want to get more information on the data of the API that I used or know where I went to ensure data accuracy, you can you the same links that I did. The website for the API that I used was this [site](https://collegefootballdata.com/). Here you can also find all the information you would need to run your own API requests such as syntax and API instructions. The only other site I used for this analysis was [ESPN](https://www.espn.com/college-football/team/schedule/_/id/254/season/2008). That is where you can find ESPN's data of each game and see the play-by-play which matches the data I used.
 
 ### All the Little Details
 If you are interested in taking a deeper look into how I performed all the data gathering, cleaning, and analyzing, you are welcome to take a look at this [repository](https://github.com/hsanders-07/post_2_code) which contains it all.
