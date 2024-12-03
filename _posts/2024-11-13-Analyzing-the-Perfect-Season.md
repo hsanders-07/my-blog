@@ -7,7 +7,7 @@ display_image: false
 ---
 
 
-<p class="intro"><span class="dropcap">T</span>he 2008-09 football season was arguably the best in program history for the University of Utah. Obviously, going undefeated tells you a lot about how well the team performed, but what more can we learn about what lead to their success? Where did they thrive statistically in drive statistics comparison to their opponents'? These are the questions I will be answering in this post along with showing you how I did so! </p>
+<p class="intro"><span class="dropcap">T</span>he 2008-09 football season was arguably the best in program history for the University of Utah. Obviously, going undefeated tells you a lot about how well the team performed, but what more can we learn about what lead to their success? Where did they thrive in drive statistics compared to their opponents? These are the questions I will be answering in this post along with showing you how I did so! </p>
 
 ### Ethical Data Gathering?
 I knew there had to be multiple options for gathering college football data so I did some research until I found this [site](https://collegefootballdata.com/). Now, if you're not familiar with modes of data gathering, you might be thinking right about now something along the lines of, "Okay Hunter, so what, you just went to this site and copied and pasted the data they show? That seems a little sketchy." Rest assured, that is not what I did! Rather this is a website that is made for the intended purpose of people getting their data. Essentially, as long as you get your own API key and follow their instructions, you are good to go.
@@ -27,7 +27,7 @@ headers = {
 {%- endhighlight -%}
 
 ### Summary of What the Statistics Say
-Upon obtaining all of the data I requested, some data cleaning and reorganization were needed for me to do the analysis I was looking to do. I won't go over what all I did to get the data ready, but if you are curious, I have my code repository linked at the end of this post. 
+Upon obtaining all of the data I requested, some data cleaning and reorganization were needed for me to do the analysis I was looking to do. I won't go over what all I did to get the data ready, but if you are curious, I have my code [repository](https://github.com/hsanders-07/post_2_code) that you are welcome to take a look at. 
 
 To give you an idea of how I got the data to look, the following is the first five and last five instances, or in this case  "drives", of the season.
 
