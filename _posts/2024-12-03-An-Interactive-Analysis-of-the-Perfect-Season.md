@@ -26,3 +26,9 @@ One of the comparisons I wanted to take a look at was yards gained vs starting y
 <figure>
     <img src="https://hsanders-07.github.io/my-blog/assets/img/yards_vs_togo2.png" alt="">
 </figure>
+
+These plots display and demonstrate various things, but the two main things we can learn from these plots are that Utah's offensive productivity made life difficult on their opponent's offense due to the vast majority of their drives having 70+ yards to go. We also learn that the Utah defense were not fans of their opponents getting first downs. I put the dashed line at the 10 yards gained point in the x-axis to show just how often the Utah defense forced a 3-and-out, or kept the other team from getting even a single first down.
+Overall, we can clearly see that Utah had a rather dominant offense that was able to capitalize on having the ball with their ability to storm down the court and score touchdowns with little evidence suggesting they were limited when starting far from the endzone. 
+Alternatively, Utah's defense was also rather dominant as they were able to really hinder their opponents' ability to score touchdowns and managed to use yards to goal to their advantage.
+
+Now these were just examples of what could be analyzed with this dataset! It is time for you to get your hands dirty in this data and see what other insights you can discover. THIS STREAMLIT APP is to allow you to pick and choose the kinds of things you want to take a look at. Which variables you select is totally up to you and whether you want to see the data for when Utah was on defense or when they were on offense is also yours for the choosing. 
