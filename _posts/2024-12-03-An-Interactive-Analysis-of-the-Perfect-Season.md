@@ -37,6 +37,7 @@ Here's what these plots tell us:
 <ol>
 <li>Offense: Utah’s offensive productivity often forced opponents to start their drives with 70+ yards to go, creating a significant disadvantage for their opponents.</li>
 <li>Defense: Utah’s defense rarely allowed opponents to get first downs. The dashed line at 10 yards gained highlights how often Utah forced 3-and-outs, thus prevented even a single first down.</li>
+</ol>
 
 Overall, we can clearly see that Utah had a rather dominant offense that was able to capitalize on having the ball with their ability to storm down the field and score touchdowns with little evidence suggesting they were limited when starting far from the endzone. 
 Alternatively, Utah's defense was also rather dominant as they were able to really hinder their opponents' ability to score touchdowns and managed to use yards to goal to their advantage.
